@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: sdju1im55-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/sdju1im55-java-quarkus-gitops
